@@ -8,4 +8,5 @@
 
 📫 You can reach me at mauro@mauroreis.app.
 
-🌐 Visit my website: mauroreis.app
+🌐 Visit my website: https://mauroreis.app/
+
